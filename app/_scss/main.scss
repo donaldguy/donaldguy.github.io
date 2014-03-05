@@ -21,6 +21,7 @@ textarea {
 html {
     font-size: 1em;
     line-height: 1.4;
+    height: 100%;
 }
 
 /*
@@ -98,21 +99,28 @@ textarea {
    Author's custom styles
    ========================================================================== */
 
+   body {
+    margin-left: 1em;
+    position: relative;
+   }
 
+   h1 {
+    font-size: 5em;
+    text-align: center;
+    font-family: Baskerville, Georgia, Serif;
+   }
 
+   .side_photo {
+    float: right;
+    max-width: 60%;
+    margin-top: -5%;
+   }
 
-
-
-
-
-
-
-
-
-
-
-
-
+   .side_photo img {
+    max-width:100% !important;
+    height:auto;
+    display:block;
+   }
 
 /* ==========================================================================
    Helper classes
