@@ -402,8 +402,8 @@ module.exports = function (grunt) {
     'compass:server',
     'coffeelint:check',
     'coffee:dist',
-    'jshint:all',
-    'csslint:check'
+    'jshint:all'
+    //'csslint:check'
   ]);
 
   grunt.registerTask('build', [

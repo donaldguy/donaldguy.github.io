@@ -99,28 +99,91 @@ textarea {
    Author's custom styles
    ========================================================================== */
 
-   body {
-    margin-left: 1em;
-    position: relative;
-   }
+$body-copy: #403D39;
 
-   h1 {
-    font-size: 5em;
-    text-align: center;
-    font-family: Baskerville, Georgia, Serif;
-   }
+body {
+    background-color: #fbefd1;
+    color: $body-copy;
+    font-family: "Arvo";
+}
 
-   .side_photo {
+a {
+    color: #D4530B;
+    text-decoration: none;
+    &:hover {
+        text-decoration: underline;
+    }
+}
+
+ul li { 
+    list-style-type: square;
+    list-style-color: $body-copy;
+}
+
+header {
+    padding-left: 3em;
+    h1 {
+        margin-left: -1em;
+        font-size: 5em;
+        text-align: center;
+        font-family: 'Bangers', 'Impact', monospace;
+        color: #EB7500;
+        margin-bottom: 0;
+        &:after { content: "!"; }
+    }
+
+    h2 {
+        color: #F63D0C;
+        margin: 0;
+        text-align: right;
+        font-family: 'Ubuntu';
+        font-weight: bold;
+        font-style: italic;
+        position: relative;
+        top: -1em;
+        right: -1em;
+        &:before { content: "— "; }
+        &:after { content: " —"; }
+    }
+
+    .socials, .descriptors {
+        margin: 0;
+        padding: 0;
+        li {
+            list-style: none;
+            display: inline-block;
+            margin-right: 0.5ex;
+        }
+    }
+
+    .descriptors li:after { content: "."; }
+    .socials { font-size: 2.5em; text-align: center;}
+    .nav a {font-size: 1.2em;}
+}
+
+    hr {
+        background-color: darken(#F63D0C,15%);
+        height: 1em;
+        top: -1.2em;
+        border: none;
+        margin: 0
+    }
+
+.side_photo {
     float: right;
-    max-width: 60%;
-    margin-top: -5%;
-   }
+    max-width: 50%;
+    img {
+        max-width:100% !important;
+        height:auto;
+        display:block;
+        position: relative;
+    }  
+}
 
-   .side_photo img {
-    max-width:100% !important;
-    height:auto;
-    display:block;
-   }
+main {
+    background-color: #F6DFA2;
+}
+
 
 /* ==========================================================================
    Helper classes
