@@ -127,6 +127,7 @@ header {
         font-size: 5em;
         text-align: center;
         font-family: 'Bangers', 'Impact', monospace;
+        -webkit-text-stroke: 0.1px $body-copy;
         color: #EB7500;
         margin-bottom: 0;
         &:after { content: "!"; }
@@ -144,6 +145,7 @@ header {
         right: -1em;
         &:before { content: "— "; }
         &:after { content: " —"; }
+        visibility: hidden;
     }
 
     .socials, .descriptors {
