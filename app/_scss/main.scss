@@ -146,6 +146,7 @@ header {
         &:before { content: "— "; }
         &:after { content: " —"; }
         visibility: hidden;
+        cursor: alias;
     }
 
     .socials, .descriptors {
