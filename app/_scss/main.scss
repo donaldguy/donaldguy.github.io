@@ -123,7 +123,6 @@ ul li {
 header {
     padding-left: 3em;
     h1 {
-        margin-left: -1em;
         font-size: 5em;
         text-align: center;
         font-family: 'Bangers', 'Impact', monospace;
@@ -142,7 +141,6 @@ header {
         font-style: italic;
         position: relative;
         top: -1em;
-        right: -1em;
         &:before { content: "— "; }
         &:after { content: " —"; }
         visibility: hidden;
@@ -169,22 +167,104 @@ header {
         height: 1em;
         top: -1.2em;
         border: none;
-        margin: 0
+        margin: 0;
     }
 
-.side_photo {
+.main_photo {
     float: right;
     max-width: 50%;
     img {
         max-width:100% !important;
         height:auto;
         display:block;
-        position: relative;
-    }  
+    }
 }
 
 main {
     background-color: #F6DFA2;
+}
+
+@media screen and (min-width: 900px) {
+    header {
+        h1 {
+            margin-left: -1em;
+        }
+        h2 {
+            right: -1em;
+        }
+    }
+}
+
+@media screen and (max-width: 899px) {
+    .main_photo {
+        float: none;
+        background-image: url('/img/full-mudder.jpg');
+        background-size: cover;
+        min-width: 110%;
+        margin: 0;
+        margin-left: -3em;
+        height: 14em;
+        img {
+           visibility: hidden; 
+        }
+        border-bottom: 5px #af2a06 solid;
+    }
+
+    header {
+        h1 {
+            text-align: left;
+            margin-top: 0;    
+        }
+        h2 {
+            right: 1em;
+        }
+    }
+}
+
+@media screen and (max-width: 899px) and (min-width: 720px) {
+    header {
+        h1 {
+            position: absolute;
+            top: -0.2ex;
+        }
+        h2 {
+            top: -2em;
+        }
+    }
+}
+
+@media screen and (max-width: 465px ) {
+    header {
+        padding-left: 1em;
+    }
+    .main_photo {
+        height: 9em;
+    }
+}
+
+@media screen and (max-width: 430px) {
+    .socials {
+        text-align: left !important;
+        li {
+            margin-right: 0 !important;
+        }
+    }
+}
+
+
+@media only screen and (max-width : 391px) {
+    header {
+        h1 {
+            font-size: 3em;
+        }
+        h2 {
+            font-size: 1em;
+        }
+    }
+
+    .socials li:last-child {
+        display: none;
+    }
 }
 
 
