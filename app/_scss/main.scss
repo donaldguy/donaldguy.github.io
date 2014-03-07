@@ -233,24 +233,20 @@ main {
     }
 }
 
-@media screen and (max-width: 465px ) {
+@media screen and (max-width: 531px ) {
     header {
         padding-left: 1em;
     }
     .main_photo {
-        height: 9em;
+        height: 10em;
     }
 }
 
-@media screen and (max-width: 430px) {
-    .socials {
-        text-align: left !important;
-        li {
-            margin-right: 0 !important;
-        }
+@media only screen and (max-width: 421px) {
+    .socials li:last-child {
+        display: none;
     }
 }
-
 
 @media only screen and (max-width : 391px) {
     header {
@@ -262,8 +258,11 @@ main {
         }
     }
 
-    .socials li:last-child {
-        display: none;
+    .socials {
+        text-align: left !important;
+        li {
+            margin-right: 0 !important;
+        }
     }
 }
 
