@@ -1,0 +1,20 @@
+---
+layout: default
+---
+<header>
+<ul class="breadcrumbs">
+	<li><a href="/" title="Home">Donald Guy</a></li>
+	{% if page.type %}
+	<li><a href="/#{{page.type | downcase}}">
+			{{page.type | capitalize}}
+		</a>
+	</li>
+	{% endif %}
+	<li>{{page.title}}</li>
+</ul>
+<div class="tiny_mudder"></div>
+</header>
+
+<main>
+{{ content }}
+</main>

@@ -128,6 +128,7 @@ ul li {
 header {
     padding-left: 3em;
     overflow: hidden;
+    border-bottom: 0.5ex $emphasis-color solid;
     h1 {
         font-size: 5em;
         text-align: center;
@@ -172,6 +173,31 @@ header {
         }
     }
     .nav a {font-size: 1.2em;}
+    
+    .breadcrumbs {
+        margin-left: -3em;
+        li {
+            display: inline-block;
+            list-style: none;
+            &:not(:last-child):after {
+                content: " > ";
+            }
+        }
+    }
+
+    .tiny_mudder {
+        display: inline-block;
+        position: absolute;
+        top: 0;
+        right: 0;
+        background-image: url(/img/full-mudder.jpg);
+        background-size: cover;
+        height: 3.4em;
+        width: 5em;
+        @media screen and (max-width: 439px) {
+            display: none;
+        }
+    }
 }
 
     hr {
