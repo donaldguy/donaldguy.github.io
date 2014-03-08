@@ -22,6 +22,7 @@ html {
     font-size: 1em;
     line-height: 1.4;
     height: 100%;
+    background-color: #F6DFA2;
 }
 
 /*
@@ -101,10 +102,14 @@ textarea {
 
 $body-copy: #403D39;
 
+$emphasis-color: #af2a06;
+
 body {
     background-color: #fbefd1;
     color: $body-copy;
     font-family: "Arvo";
+    max-width: 1130px;
+    margin: 0 auto;
 }
 
 a {
@@ -159,13 +164,19 @@ header {
     }
 
     .descriptors li:after { content: "."; }
-    .socials { font-size: 2.5em; text-align: center;}
+    .socials { 
+        font-size: 2.5em; 
+        text-align: center;
+        @media screen and (min-width: 984px) {
+            margin-top: 1.5em;
+        }
+    }
     .nav a {font-size: 1.2em;}
 }
 
     hr {
-        background-color: darken(#F63D0C,15%);
-        height: 1em;
+        background-color: $emphasis-color;
+        height: 0.5ex;
         top: -1.2em;
         border: none;
         margin: 0;
@@ -183,6 +194,12 @@ header {
 
 main {
     background-color: #F6DFA2;
+    padding: 1em 2em;
+
+    h1 {
+        font-size: 1.4em;
+        color: $emphasis-color;
+    }
 }
 
 @media screen and (min-width: 900px) {
@@ -208,7 +225,7 @@ main {
         img {
            visibility: hidden; 
         }
-        border-bottom: 5px #af2a06 solid;
+        border-bottom: 0.5ex $emphasis-color solid;
     }
 
     header {
