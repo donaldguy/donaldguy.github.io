@@ -4,14 +4,6 @@ layout: page
 type: focuses
 ---
 
-<style type="text/css" media="screen">
-	img {
-		float: right;
-		max-width: 12em;
-		margin-left: 1em;
-	}	
-</style>
-
 I have long been interested in the practice of meditation and mindfulness, but I long considered it rather arcane and mystical as I feel it is generally seen in the Western world.
 
 I am now working actively on developing a practice. These are my resources:
@@ -20,9 +12,11 @@ I am now working actively on developing a practice. These are my resources:
 ![Full Catastrophe Living cover](https://d202m5krfqbpi5.cloudfront.net/books/1382938897l/17704523.jpg)
 [This book](http://amzn.to/1lHv8AS) was recommended to me rather casually in one of my last sessions with a Cognitive-Behavioral therapist I was seeing in Cambridge at the end of a chain of referrals, that began about GI issues, but ultimately was seen as some variety of depression and/or anxiety conditions.
 
-No offense meant to the man's service, but I suspect the book recommendation may ultimately prove more useful than our sessions together.
+No offense meant to that therapist's service, but I suspect the book recommendation may ultimately prove more useful than our sessions together.
 
-It's a good book. I am not done with it, but I am confident in this assertion. It is delightfully secular, having come out of a program at the University of Massachusetts Medical center, but I believe it captures the spirit of mindfulness well. And lest you think it outdated, this new edition (which I have) was published late in 2013. What I have read of the book, I have found reassuring and enlightening, even as I make slow progress -- I find when reading about intentional awareness, one tends to feel like rereading.
+It's a good book. I am not done with it, but I am confident in this assertion. It is delightfully secular, having come out of a program at the University of Massachusetts Medical center, but still, I believe, captures the spirit of mindfulness well. The author, John Kabat-Zinn, holds a Ph.D. in molecular biology from MIT, and his voice comes across as a scientist, as well as a medical and zen practitioner. And lest you think the book is outdated, this new edition (which I have) was published late in 2013. 
+
+What I have read of the book, I have found reassuring and enlightening, even as I make slow progress -- I find when reading about intentional awareness, one tends to feel like rereading.
 
 The book lays out an 8 week 'Mindfulness Based Stress Reduction' curriculum cultivating a regular formal mindfulness practice. Though I have been at it for a little over a month, I am hovering somewhere between week 2 and 3 at my own pace. I look forward to continuing this journey, and think I will have more thoughts to share on the matters soon.
 

@@ -4,14 +4,6 @@ layout: page
 type: focuses
 ---
 
-<style type="text/css" media="screen">
-	img {
-		float: right;
-		max-width: 12em;
-		margin-left: 1em;
-	}	
-</style>
-
 Like many geeky youth, I managed to get through high school without much of a focus on health or fitness. Don't get me wrong, I played Rec league sports as a younger child. I even twice tried out for, and was twice cut from, varsity volleyball in high school (high school volleyball is pretty intense in Virginia Beach). But once that ship was sailed, I settled in and only had about as much physical activity as PE requirements dictated (and MIT's are more stringent than some colleges). With my enthusiasm for [beer](/beer) in college, probably the only reason I didn't get super fat was the 65 stairs I climbed to my dorm every day.
 
 Nevertheless, coming out of college, I wasn't in great shape. Jumping into full-time work, I found myself gaining weight and feeling like crap. When I left that job I got [a personal trainer](www.linkedin.com/pub/rocco-venneri/21/1bb/387, which along with regular use of [Lose It!](http://loseit.com/) saw a decent amount of weight loss. But when I moved to New York and started at charity: water, things fell off again. When I left *that* job, I started up again in a more self-directed way. That pretty much brings us to the present.
