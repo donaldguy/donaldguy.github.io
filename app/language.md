@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Language &amp; Communication
+title: Languages &amp; Communication
 type: interests
 ---
 
