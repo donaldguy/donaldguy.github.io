@@ -19,7 +19,7 @@ In general what loyalties I have are to cafés affiliated with a single roastery
 
 # Stumptown Coffee
 ![Stumptown logo](http://pbs.twimg.com/profile_images/3315888220/b9763cd6cafe3273c73aee406af97722.jpeg)
-Coming to New York, my litmus test that I'll like a shop is the service of Portland, WA's [Stumptown Coffee](http://stumptowncoffee.com/). On some of my first visits job-hunting in New York, I went to there flagship corporate-owned [NYC location](http://stumptowncoffee.com/location/new-york/manhattan/). It's pretty good, though the line is pretty ridiculous. But overall my favorite coffee shops in New York, all of which serve Stumptown coffee, are probably:
+Coming to New York, my litmus test that I'll like a shop is the service of Portland, OR's [Stumptown Coffee](http://stumptowncoffee.com/). On some of my first visits job-hunting in New York, I went to there flagship corporate-owned [NYC location](http://stumptowncoffee.com/location/new-york/manhattan/). It's pretty good, though the line is pretty ridiculous. But overall my favorite coffee shops in New York, all of which serve Stumptown coffee, are probably:
 
   1. [Third Rail Coffee](http://www.thirdrailcoffee.com/)
   2. [Vineapple Cafe](http://www.vineapple.com/)

@@ -19,7 +19,7 @@ My tastes are rather eclectic. If you really want to know the details, you could
   * Emo / Pop-punk, to some degree the taste hear is latent from high school, but there are certain bands I love too much not to mention. [Motion City Soundtrack](http://www.youtube.com/watch?v=YDodJuuSrr4) probably tops that list. [Taking Back Sunday](http://www.youtube.com/watch?v=_PBy3Lwi4Lo), [Fall Out Boy](http://www.youtube.com/watch?v=lwKzVd0VoMQ), and [Panic at the Disco](http://www.youtube.com/watch?v=HslvfK36c30) (across their various incarnations) are still pretty awesome.
   * "Shitty Pop", as I affectionately call it. I do love me some [Ke$ha](http://www.youtube.com/watch?v=BBxSSGYhF90), [LMFAO](http://www.youtube.com/watch?v=UA8rcLvS1BY), [Icona Pop](http://www.youtube.com/watch?v=r-jAEM-oEiQ), and (terrifyingly, recently) newer [Taylor Swift](http://www.youtube.com/watch?v=WcM14Al83Ls)
 
-All of its pretty mainstream, I admit. But apropos of little, if I am to recommend one more-obscure thing, I urge you to check out the amazing eponymous album of [Penguin Prison](https://soundcloud.com/penguin-prison/golden-train). Anyway I love many other too many things to list.
+All of its pretty mainstream, I admit. But apropos of little, if I am to recommend one more-obscure thing, I urge you to check out the amazing eponymous album of [Penguin Prison](https://soundcloud.com/penguin-prison/golden-train).
 
 # Performing
 
