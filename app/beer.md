@@ -4,7 +4,7 @@ type: interests
 title: Craft Beer &amp; Bourbon
 ---
 
-Until a few months ago, I was really into craft beer and nicer bourbon. I still a fan of these things, but I haven't been drinking much of either (or other alcohol) due to my focus on [fitness](/fitness). As a result my enthusiasm has waned somewhat as well.
+Until a few months ago, I was really into craft beer and nicer bourbon. I am still a fan of these things, but I haven't been drinking much of either (or other alcohol) due to my focus on [fitness](/fitness). As a result my enthusiasm has waned somewhat as well.
 
 # Beer
 <img src="http://irs1.4sqi.net/img/general/width960/4242872_P82w1e1jU0Or9R_RV6j4nZDQU6t6CDmYXMmxafHyP6s.jpg" alt="Me with the tasting flight at the famed Russian River Brewing Company" style="max-width: 18em ">
@@ -24,11 +24,11 @@ Unfortunately, as noted above, I am not that enthusiastic right now, so I will k
 
 # Bourbon
 <img src="http://irs2.4sqi.net/img/general/width960/4242872_dcgisK7ryLJIFx2cSd5vE8xHtSZKBywLuwZltf1Y1WM.jpg" alt="The Wall at Hard Water" style="max-width: 16em;">
-Sometime between my 21st and 22nd birthday, my parents took a trip to the midwest and went through Kentucky on their way back. When I went home for Christmas that year, there was a lot of [Booker's](http://www.smallbatch.com/bookers) being poured. Soon after Bourbon became definitively the official liquor of the Guy family (theres a hold out for Scotch in my father). I have claimed on multiple occasion that while I am a rather poor American patriot, that with Bourbon being the quintessential American spirit, my love for it stands in.
+Sometime between my 21st and 22nd birthday, my parents took a trip to the midwest and went through Kentucky on their way back. When I went home for Christmas that year, there was a lot of [Booker's](http://www.smallbatch.com/bookers) being poured. Soon after Bourbon became definitively the official liquor of the Guy family (there's a hold out for Scotch in my father). I have claimed on multiple occasion that while I am a rather poor American patriot, that with Bourbon being the quintessential American spirit, my love for it stands in.
 
 To mirror the style used for beer, I shall here turn to bullet points:
 
-  * My favorite here may be [Breckenridge Bourbon](https://www.breckenridgedistillery.com/hooch/products/). Like the Vanilla Porter above, it probably gets an unfair bump in  baring my middle name, but definitely a good Bourbon (if you can forgive it for being distilled outside Kentucky), so I'll stand by it.
+  * My favorite here may be [Breckenridge Bourbon](https://www.breckenridgedistillery.com/hooch/products/). Like the Vanilla Porter above, it probably gets an unfair bump in bearing my middle name, but definitely a good Bourbon (if you can forgive it for being distilled outside Kentucky), so I'll stand by it.
   * Jim Beam White has become undrinkable for me, but the Jim Beam distillery also makes Booker's, my mother's favorite, which is quite good, though I probably prefer their Knob Creek, or even better, [Knob Creek Single Barrel](http://www.knobcreek.com/knob-creek-single-barrel-reserve)
   * While I have little use for Jim Beam proper, I actually still enjoy Jack Daniels. A) It's not actually Bourbon ("Tennesse Whiskey", not enough corn in the mash bill, and they drip it through charcoal before aging), B) This may be partially due to associations with my college dorms mythic forefather "Jack Florey", but I stand by it. 
   * I also have a warm place in my heart (and stomach) for [Jack Daniel's Single Barrel](http://www.jackdaniels.com/whiskey/jack-daniels-single-barrel), largely because it is, in my experience, the finest bourbon-like elixir you can hope to find in Eastern (and very posisbly Western) Europe, and thus helped me when homesick.

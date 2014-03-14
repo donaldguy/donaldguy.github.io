@@ -26,7 +26,7 @@ Here's how that's going (excuse the clashing backgrounds caused by the iframing)
 For some reason I recently, quickly did [this](https://class.coursera.org/commscience-001) ostensibly-6-week University of Amsterdam Coursera course on communication science over the weekend before the exam week of the course. It was kinda interesting. I was especially taken with:
 
  1. the semiotics taxonomy of communication that describes messages as 'emotive', 'conative', indicative', 'poetic', 'phatic', or 'metalingual' depending on whether the primary concern of the message is the sender, receiver, message itself, channel, or code, respectively.
- 2. the "Uncertainty reduction theory" ( Berger & Calabrese, 1975) that amounts to the idea that there is an ongoing process wherein the inherit nature of people and reality causes constant (cultural) change, creating uncertainty, and that people communicate amongst themselves (primarily) to ameliorate that uncertainty.
+ 2. the "Uncertainty reduction theory" ( Berger & Calabrese, 1975) that amounts to the idea that there is an ongoing process wherein the inherent nature of people and reality causes constant (cultural) change, creating uncertainty, and that people communicate amongst themselves (primarily) to ameliorate that uncertainty.
 
 I, uncharacteristically, took thorough notes/outlines of the material (to offset my rapid pace?). If you are curious, you can find those notes on Evernote [here](https://www.evernote.com/pub/donaldguy/introductiontocommunicationscience)
 
