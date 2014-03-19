@@ -105,9 +105,13 @@ $body-copy: #403D39;
 $emphasis-color: #af2a06;
 
 body {
-    background-color: #fbefd1;
+    background-color: #F6DFA2;
     color: $body-copy;
     font-family: "Arvo";
+    margin: 0 auto;
+}
+
+main, .big-head {
     max-width: 1130px;
     margin: 0 auto;
 }
@@ -126,6 +130,7 @@ ul li {
 }
 
 header {
+    background-color: #fbefd1;
     padding-left: 3em;
     overflow: hidden;
     border-bottom: 0.5ex $emphasis-color solid;
@@ -220,7 +225,6 @@ header {
 }
 
 main {
-    background-color: #F6DFA2;
     padding: 1em 2em;
 
     h1 {
