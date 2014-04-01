@@ -18,7 +18,7 @@ I looked over the amazon reviews and thought _\*shrug\*_ what the heck?.
 
 Overall I found the information pretty solid if cursory. I have said (e.g. in Episode 19 of [this](http://anhourwasted.mit.edu/) radio program) that it is overall a pretty good "Intro to [Bro Science](http://www.youtube.com/user/BroScienceLife)". I also enjoy Roman's voice and his framing of the journey of fitness and self-improvement within the idea of Joseph Campbell's [Monomyth](http://en.wikipedia.org/wiki/Monomyth) / Hero's Journey. Even if (sorry, bro) some of the other geek-culture references sometimes seem a little forced at times—And the attempt to reclaim the word Alpha seems like overreach—it stoked my self-directed interest in fitness, and I appreciate that.
 
-I am presently on week *9* of *16* of the book's program. It's going pretty well, I am down at least 10, probably 15 lbs. I can lift a lot more, I feel more comfortable in the gym. I got into it in the first place to feel better day to day, and so I am a bit miffed when I still feel crappy sometimes. ([Separately](/meditation), I am trying to learn to have general acceptance for these feelings) But overall, I think the book was a pretty good investment.
+I am presently on week *13* of *16* of the book's program. It's going pretty well, I am down at least 10, probably 15 lbs. I can lift a lot more, I feel more comfortable in the gym. I got into it in the first place to feel better day to day, and so I am a bit miffed when I still feel crappy sometimes. ([Separately](/meditation), I am trying to learn to have general acceptance for these feelings) But overall, I think the book was a pretty good investment.
 
 #Further/Future Fitness.
 

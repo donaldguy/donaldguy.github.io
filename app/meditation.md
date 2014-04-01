@@ -18,7 +18,7 @@ It's a good book. I am not done with it, but I am confident in this assertion. I
 
 What I have read of the book, I have found reassuring and enlightening, even as I make slow progress -- I find when reading about intentional awareness, one tends to feel like rereading.
 
-The book lays out an 8 week 'Mindfulness Based Stress Reduction' curriculum cultivating a regular formal mindfulness practice. Though I have been at it for a little over a month, I am hovering somewhere between week 2 and 3 at my own pace. I look forward to continuing this journey, and think I will have more thoughts to share on the matters soon.
+The book lays out an 8 week 'Mindfulness Based Stress Reduction' curriculum cultivating a regular formal mindfulness practice. I went at it for a little over a month, but eneded up hovering somewhere between week 2 and 3. I've kinda fallen out of practice and may start over :-/. I look forward to continuing this journey, and think I will have more thoughts to share on the matters soon.
 
 # Freelancers Union / Collective Primary Care
 
