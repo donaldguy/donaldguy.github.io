@@ -17,10 +17,10 @@ Following largely on the enthusiasms of [my roommate](https://twitter.com/kasitt
 
 At current writing, Personal Records for the main exercises are as follows:
 
-  * Squat - 195 lbs, 5 reps for 3 sets
-  * Bench Press - 130 lbs, 5 reps for 2 sets
+  * Squat - 200 lbs, 5 reps for 3 sets
+  * Bench Press - 135 lbs, 5 reps for 2 sets
   * Overhead Press - 85 lbs, 4 reps for 3 sets
-  * Deadlift - 255 lbs, 5 reps for 1 set
+  * Deadlift - 260 lbs, 5 reps for 1 set
 
 Unless I get this to update dynamically, those are likely (hopefully) out of date. If you are really curious, check out [my Fitocracy profile](https://www.fitocracy.com/profile/donaldguy/?activities) for recent workouts.
 
