@@ -1,3 +1,6 @@
+---
+# Jekyll DEMANDS front matter
+---
 taglines = ['Delightfully Gregarious!',
             'Demonstrably Google-able!',
             'deceptively generic.',

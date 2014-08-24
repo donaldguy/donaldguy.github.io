@@ -1,0 +1,238 @@
+---
+# If there is no front-matter, Jekyll ignores the file !! D:
+---
+
+@import "base";
+
+
+$body-copy: #403D39;
+$emphasis-color: #af2a06;
+
+body {
+    background-color: #F6DFA2;
+    color: $body-copy;
+    font-family: "Arvo";
+    margin: 0 auto;
+}
+
+main, .big-head {
+    max-width: 1130px;
+    margin: 0 auto;
+}
+
+a {
+    color: #D4530B;
+    text-decoration: none;
+    &:hover {
+        text-decoration: underline;
+    }
+}
+
+ul li {
+    list-style-type: square;
+    list-style-color: $body-copy;
+}
+
+header {
+    background-color: #fbefd1;
+    padding-left: 3em;
+    overflow: hidden;
+    border-bottom: 0.5ex $emphasis-color solid;
+    h1 {
+        font-size: 5em;
+        text-align: center;
+        font-family: 'Bangers', 'Impact', monospace;
+        -webkit-text-stroke: 0.1px $body-copy;
+        color: #EB7500;
+        margin-bottom: 0;
+        &:after { content: "!"; }
+    }
+
+    h2 {
+        color: #F63D0C;
+        margin: 0;
+        text-align: right;
+        font-family: 'Ubuntu';
+        font-weight: bold;
+        font-style: italic;
+        position: relative;
+        top: -1em;
+        &:before { content: "— "; }
+        &:after { content: " —"; }
+        visibility: hidden;
+        cursor: alias;
+    }
+
+    .socials, .descriptors {
+        margin: 0;
+        padding: 0;
+        li {
+            list-style: none;
+            display: inline-block;
+            margin-right: 0.5ex;
+        }
+    }
+
+    .descriptors li:after { content: "."; }
+    .socials {
+        font-size: 2.5em;
+        text-align: center;
+        @media screen and (min-width: 984px) {
+            margin-top: 1.5em;
+        }
+    }
+    .nav a {font-size: 1.2em;}
+
+    .breadcrumbs {
+        margin-left: -3em;
+        li {
+            display: inline-block;
+            list-style: none;
+            &:not(:last-child):after {
+                content: " > ";
+                margin-right: 1ex;
+            }
+        }
+    }
+
+    .tiny_mudder {
+        display: inline-block;
+        position: absolute;
+        top: 0;
+        right: 0;
+        background-image: url(/img/full-mudder.jpg);
+        background-size: cover;
+        height: 3.4em;
+        width: 5em;
+        @media screen and (max-width: 439px) {
+            display: none;
+        }
+    }
+}
+
+    hr {
+        background-color: $emphasis-color;
+        height: 0.5ex;
+        top: -1.2em;
+        border: none;
+        margin: 0;
+    }
+
+.main_photo {
+    float: right;
+    max-width: 50%;
+    img {
+        max-width:100% !important;
+        height:auto;
+        display:block;
+    }
+}
+
+main {
+    padding: 1em 2em;
+
+    h1 {
+        font-size: 1.4em;
+        color: $emphasis-color;
+    }
+
+    h2 {
+        font-size: 1.1em;
+    }
+}
+
+@media screen and (min-width: 900px) {
+    header {
+        h1 {
+            margin-left: -1em;
+        }
+        h2 {
+            right: -1em;
+        }
+    }
+}
+
+@media screen and (max-width: 899px) {
+    .main_photo {
+        float: none;
+        background-image: url('/img/full-mudder.jpg');
+        background-size: cover;
+        min-width: 110%;
+        margin: 0;
+        margin-left: -3em;
+        height: 14em;
+        img {
+           visibility: hidden;
+        }
+        border-bottom: 0.5ex $emphasis-color solid;
+    }
+
+    header {
+        h1 {
+            text-align: left;
+            margin-top: 0;
+        }
+        h2 {
+            right: 1em;
+        }
+    }
+}
+
+@media screen and (max-width: 899px) and (min-width: 720px) {
+    header {
+        h1 {
+            position: absolute;
+            top: -0.2ex;
+        }
+        h2 {
+            top: -2em;
+        }
+    }
+}
+
+@media screen and (max-width: 531px ) {
+    header {
+        padding-left: 1em;
+    }
+    .main_photo {
+        height: 10em;
+    }
+}
+
+@media only screen and (max-width: 421px) {
+    .socials li:last-child {
+        display: none;
+    }
+}
+
+@media only screen and (max-width : 391px) {
+    header {
+        h1 {
+            font-size: 3em;
+        }
+        h2 {
+            font-size: 1em;
+        }
+    }
+
+    .socials {
+        text-align: left !important;
+        li {
+            margin-right: 0 !important;
+        }
+    }
+}
+
+.page {
+    img {
+        float: right;
+        max-width: 12em;
+        margin-left: 1em;
+    }
+}
+
+.scaledown-7 {
+    margin: -2em;
+    transform: scale(0.7,0.7);
+    -webkit-transform: scale(0.7,0.7);
+}
